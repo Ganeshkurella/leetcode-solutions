@@ -56,6 +56,5 @@ DSA-LeetCode/
 
 <div align="center">
 
-<sub>Auto-synced by <strong>LeetSync</strong> · Built by <a href="https://deveshsamant.in/">Devesh Samant</a></sub>
 
 </div>
