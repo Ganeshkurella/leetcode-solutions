@@ -4,15 +4,6 @@
 
 <p><em>Automatically synced with every accepted submission</em></p>
 
-<!-- QUICK_STATS_START -->
-
-![Total Solved](https://img.shields.io/badge/TOTAL%20SOLVED-3-6c5ce7?style=for-the-badge\&labelColor=1a1a2e)
-![Easy](https://img.shields.io/badge/EASY-3-00b8a3?style=for-the-badge\&labelColor=1a1a2e)
-![Medium](https://img.shields.io/badge/MEDIUM-0-ffa116?style=for-the-badge\&labelColor=1a1a2e)
-![Hard](https://img.shields.io/badge/HARD-0-ef4743?style=for-the-badge\&labelColor=1a1a2e)
-
-<!-- QUICK_STATS_END -->
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset=".leetsync/stats-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset=".leetsync/stats-light.svg">
@@ -26,23 +17,6 @@
 </picture>
 
 </div>
-
----
-
-## 📊 Progress Dashboard
-
-<!-- PROGRESS_START -->
-
-| Metric          | Count |
-| :-------------- | ----: |
-| 🧩 Total Solved | **3** |
-| 🟢 Easy         | **3** |
-| 🟡 Medium       | **0** |
-| 🔴 Hard         | **0** |
-
-**Primary DSA Language:** `Java`
-
-<!-- PROGRESS_END -->
 
 ---
 
