@@ -18,7 +18,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset=".leetsync/calendar-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset=".leetsync/calendar-light.svg">
-  <img alt="LeetCode solving activity over the last year" src=".leetsync/calendar-dark.svg">
+  <img src=".leetsync/calendar-dark.svg">
 </picture>
 
 </div>
