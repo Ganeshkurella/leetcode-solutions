@@ -62,8 +62,6 @@
 
 ## 🧠 Learning Template
 
-For problems where I add my own explanation, I use:
-
 ```text
 Problem
     ↓
