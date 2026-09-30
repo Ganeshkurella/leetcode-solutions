@@ -1,12 +1,31 @@
 {
   "v": 1,
-  "updatedAt": 1790779305057,
+  "updatedAt": 1790779509220,
   "devices": {
     "d43286c8-73e2-4456-b8ee-6984530fd343": {
-      "lastSeen": 1790779304640
+      "lastSeen": 1790779508756
     }
   },
   "problems": {
+    "1": {
+      "attempts": 1,
+      "bestMemory": "46.4 MB (Beats 97%)",
+      "bestRuntime": "4 ms (Beats 52%)",
+      "date": "2026-09-30",
+      "difficulty": "Easy",
+      "firstSolvedOn": "2026-09-30",
+      "folderName": "0001-Two-Sum",
+      "language": "Java",
+      "number": 1,
+      "slug": "two-sum",
+      "solutionCount": 1,
+      "tags": [
+        "Array",
+        "Hash Table"
+      ],
+      "title": "Two Sum",
+      "at": 1790779508756
+    },
     "101": {
       "attempts": 1,
       "bestMemory": "43.8 MB (Beats 16%)",
@@ -26,7 +45,7 @@
         "Binary Tree"
       ],
       "title": "Symmetric Tree",
-      "at": 1790779304640
+      "at": 1790779508756
     },
     "226": {
       "attempts": 1,
@@ -47,7 +66,7 @@
         "Binary Tree"
       ],
       "title": "Invert Binary Tree",
-      "at": 1790779304640
+      "at": 1790779508756
     }
   },
   "achievements": {
@@ -59,7 +78,7 @@
   ],
   "bests": {
     "longestStreak": 1,
-    "pushes": 2
+    "pushes": 3
   },
   "identity": {
     "installId": "d10296c2-0eab-4243-8885-97d0bd970cf3",
