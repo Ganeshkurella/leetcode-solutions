@@ -40,13 +40,10 @@
 
 <!-- PROGRESS_END -->
 
-> Progress is automatically updated whenever a new LeetCode solution is synced.
-
 ---
 
 ## 📚 All Solutions
 
-> Automatically updated from the solutions synced by LeetSync.
 > Newest solved problems appear first.
 
 <!-- SOLUTIONS_START -->
