@@ -1,18 +1,44 @@
 {
   "v": 1,
-  "updatedAt": 1790777906086,
+  "updatedAt": 1790777951301,
   "devices": {
     "d43286c8-73e2-4456-b8ee-6984530fd343": {
-      "lastSeen": 1790777905677
+      "lastSeen": 1790777950924
     }
   },
-  "problems": {},
-  "achievements": {},
+  "problems": {
+    "226": {
+      "attempts": 1,
+      "bestMemory": "42.9 MB (Beats 65%)",
+      "bestRuntime": "0 ms (Beats 100%)",
+      "date": "2026-09-30",
+      "difficulty": "Easy",
+      "firstSolvedOn": "2026-09-30",
+      "folderName": "0226-Invert-Binary-Tree",
+      "language": "Java",
+      "number": 226,
+      "slug": "invert-binary-tree",
+      "solutionCount": 1,
+      "tags": [
+        "Tree",
+        "Depth-First Search",
+        "Breadth-First Search",
+        "Binary Tree"
+      ],
+      "title": "Invert Binary Tree",
+      "at": 1790777950924
+    }
+  },
+  "achievements": {
+    "first_blood": 1790777917969
+  },
   "sheets": {},
-  "days": [],
+  "days": [
+    "2026-09-30"
+  ],
   "bests": {
-    "longestStreak": 0,
-    "pushes": 0
+    "longestStreak": 1,
+    "pushes": 1
   },
   "identity": {
     "installId": "d10296c2-0eab-4243-8885-97d0bd970cf3",
