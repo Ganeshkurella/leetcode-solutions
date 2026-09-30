@@ -1,9 +1,9 @@
 {
   "v": 1,
-  "updatedAt": 1790779953380,
+  "updatedAt": 1790790309358,
   "devices": {
     "d43286c8-73e2-4456-b8ee-6984530fd343": {
-      "lastSeen": 1790779952981
+      "lastSeen": 1790790308906
     }
   },
   "problems": {
@@ -24,7 +24,27 @@
         "Hash Table"
       ],
       "title": "Two Sum",
-      "at": 1790779952981
+      "at": 1790790308906
+    },
+    "2": {
+      "attempts": 1,
+      "bestMemory": "46.6 MB (Beats 38%)",
+      "bestRuntime": "1 ms (Beats 100%)",
+      "date": "2026-09-30",
+      "difficulty": "Medium",
+      "firstSolvedOn": "2026-09-30",
+      "folderName": "0002-Add-Two-Numbers",
+      "language": "Java",
+      "number": 2,
+      "slug": "add-two-numbers",
+      "solutionCount": 1,
+      "tags": [
+        "Linked List",
+        "Math",
+        "Recursion"
+      ],
+      "title": "Add Two Numbers",
+      "at": 1790790308906
     },
     "101": {
       "attempts": 1,
@@ -45,7 +65,7 @@
         "Binary Tree"
       ],
       "title": "Symmetric Tree",
-      "at": 1790779952981
+      "at": 1790790308906
     },
     "226": {
       "attempts": 1,
@@ -66,7 +86,7 @@
         "Binary Tree"
       ],
       "title": "Invert Binary Tree",
-      "at": 1790779952981
+      "at": 1790790308906
     }
   },
   "achievements": {
@@ -78,7 +98,7 @@
   ],
   "bests": {
     "longestStreak": 1,
-    "pushes": 3
+    "pushes": 4
   },
   "identity": {
     "installId": "d10296c2-0eab-4243-8885-97d0bd970cf3",
