@@ -1,0 +1,23 @@
+{
+  "v": 1,
+  "updatedAt": 1790777906086,
+  "devices": {
+    "d43286c8-73e2-4456-b8ee-6984530fd343": {
+      "lastSeen": 1790777905677
+    }
+  },
+  "problems": {},
+  "achievements": {},
+  "sheets": {},
+  "days": [],
+  "bests": {
+    "longestStreak": 0,
+    "pushes": 0
+  },
+  "identity": {
+    "installId": "d10296c2-0eab-4243-8885-97d0bd970cf3",
+    "at": 1790777708684,
+    "name": "Ganesh",
+    "nameAt": 1790777867214
+  }
+}
