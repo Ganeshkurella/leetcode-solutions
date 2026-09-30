@@ -31,31 +31,6 @@
 
 <!-- SOLUTIONS_END -->
 
----
-
-## 🧠 Learning Template
-
-For problems where I add my own explanation:
-
-```text
-Problem
-    ↓
-Core Idea
-    ↓
-Algorithm Notes
-    ↓
-Workflow / Approach
-    ↓
-Java Code
-    ↓
-Dry Run
-    ↓
-Time Complexity
-    ↓
-Space Complexity
-```
-
----
 
 ## 📂 Repository Structure
 
