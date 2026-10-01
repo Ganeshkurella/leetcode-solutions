@@ -1,9 +1,9 @@
 {
   "v": 1,
-  "updatedAt": 1790879411409,
+  "updatedAt": 1790879790607,
   "devices": {
     "d43286c8-73e2-4456-b8ee-6984530fd343": {
-      "lastSeen": 1790879408889
+      "lastSeen": 1790879789918
     }
   },
   "problems": {
@@ -24,7 +24,7 @@
         "Hash Table"
       ],
       "title": "Two Sum",
-      "at": 1790879408889
+      "at": 1790879789918
     },
     "2": {
       "attempts": 1,
@@ -44,7 +44,7 @@
         "Recursion"
       ],
       "title": "Add Two Numbers",
-      "at": 1790879408889
+      "at": 1790879789918
     },
     "101": {
       "attempts": 1,
@@ -65,7 +65,7 @@
         "Binary Tree"
       ],
       "title": "Symmetric Tree",
-      "at": 1790879408889
+      "at": 1790879789918
     },
     "102": {
       "attempts": 1,
@@ -85,7 +85,7 @@
         "Binary Tree"
       ],
       "title": "Binary Tree Level Order Traversal",
-      "at": 1790879408889
+      "at": 1790879789918
     },
     "226": {
       "attempts": 1,
@@ -106,11 +106,12 @@
         "Binary Tree"
       ],
       "title": "Invert Binary Tree",
-      "at": 1790879408889
+      "at": 1790879789918
     }
   },
   "achievements": {
-    "first_blood": 1790777917969
+    "first_blood": 1790777917969,
+    "night_owl": 1790879412635
   },
   "sheets": {},
   "days": [
