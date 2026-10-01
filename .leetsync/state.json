@@ -1,9 +1,9 @@
 {
   "v": 1,
-  "updatedAt": 1790873112036,
+  "updatedAt": 1790873409320,
   "devices": {
     "d43286c8-73e2-4456-b8ee-6984530fd343": {
-      "lastSeen": 1790873108987
+      "lastSeen": 1790873408900
     }
   },
   "problems": {
@@ -24,7 +24,7 @@
         "Hash Table"
       ],
       "title": "Two Sum",
-      "at": 1790873108987
+      "at": 1790873408900
     },
     "2": {
       "attempts": 1,
@@ -44,7 +44,7 @@
         "Recursion"
       ],
       "title": "Add Two Numbers",
-      "at": 1790873108987
+      "at": 1790873408900
     },
     "101": {
       "attempts": 1,
@@ -65,7 +65,27 @@
         "Binary Tree"
       ],
       "title": "Symmetric Tree",
-      "at": 1790873108987
+      "at": 1790873408900
+    },
+    "102": {
+      "attempts": 1,
+      "bestMemory": "46.7 MB (Beats 80%)",
+      "bestRuntime": "1 ms (Beats 96%)",
+      "date": "2026-10-01",
+      "difficulty": "Medium",
+      "firstSolvedOn": "2026-10-01",
+      "folderName": "0102-Binary-Tree-Level-Order-Traversal",
+      "language": "Java",
+      "number": 102,
+      "slug": "binary-tree-level-order-traversal",
+      "solutionCount": 1,
+      "tags": [
+        "Tree",
+        "Breadth-First Search",
+        "Binary Tree"
+      ],
+      "title": "Binary Tree Level Order Traversal",
+      "at": 1790873408900
     },
     "226": {
       "attempts": 1,
@@ -86,7 +106,7 @@
         "Binary Tree"
       ],
       "title": "Invert Binary Tree",
-      "at": 1790873108987
+      "at": 1790873408900
     }
   },
   "achievements": {
@@ -94,11 +114,12 @@
   },
   "sheets": {},
   "days": [
-    "2026-09-30"
+    "2026-09-30",
+    "2026-10-01"
   ],
   "bests": {
-    "longestStreak": 1,
-    "pushes": 4
+    "longestStreak": 2,
+    "pushes": 5
   },
   "identity": {
     "installId": "d10296c2-0eab-4243-8885-97d0bd970cf3",
