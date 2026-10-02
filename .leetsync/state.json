@@ -1,9 +1,9 @@
 {
   "v": 1,
-  "updatedAt": 1790950383771,
+  "updatedAt": 1790950509299,
   "devices": {
     "d43286c8-73e2-4456-b8ee-6984530fd343": {
-      "lastSeen": 1790950383323
+      "lastSeen": 1790950508898
     }
   },
   "problems": {
@@ -24,7 +24,7 @@
         "Hash Table"
       ],
       "title": "Two Sum",
-      "at": 1790950383323
+      "at": 1790950508898
     },
     "2": {
       "attempts": 1,
@@ -44,7 +44,7 @@
         "Recursion"
       ],
       "title": "Add Two Numbers",
-      "at": 1790950383323
+      "at": 1790950508898
     },
     "101": {
       "attempts": 1,
@@ -65,27 +65,27 @@
         "Binary Tree"
       ],
       "title": "Symmetric Tree",
-      "at": 1790950383323
+      "at": 1790950508898
     },
     "102": {
-      "attempts": 1,
-      "bestMemory": "46.7 MB (Beats 80%)",
+      "attempts": 2,
+      "bestMemory": "46.7 MB (Beats 61%)",
       "bestRuntime": "1 ms (Beats 96%)",
-      "date": "2026-10-01",
+      "date": "2026-10-02",
       "difficulty": "Medium",
-      "firstSolvedOn": "2026-10-01",
+      "firstSolvedOn": "2026-10-02",
       "folderName": "0102-Binary-Tree-Level-Order-Traversal",
       "language": "Java",
       "number": 102,
       "slug": "binary-tree-level-order-traversal",
-      "solutionCount": 1,
+      "solutionCount": 2,
       "tags": [
         "Tree",
         "Breadth-First Search",
         "Binary Tree"
       ],
       "title": "Binary Tree Level Order Traversal",
-      "at": 1790950383323
+      "at": 1790950508898
     },
     "226": {
       "attempts": 1,
@@ -106,21 +106,23 @@
         "Binary Tree"
       ],
       "title": "Invert Binary Tree",
-      "at": 1790950383323
+      "at": 1790950508898
     }
   },
   "achievements": {
     "first_blood": 1790777917969,
-    "night_owl": 1790879412635
+    "night_owl": 1790879412635,
+    "on_fire": 1790950394659
   },
   "sheets": {},
   "days": [
     "2026-09-30",
-    "2026-10-01"
+    "2026-10-01",
+    "2026-10-02"
   ],
   "bests": {
-    "longestStreak": 2,
-    "pushes": 5
+    "longestStreak": 3,
+    "pushes": 6
   },
   "identity": {
     "installId": "d10296c2-0eab-4243-8885-97d0bd970cf3",
