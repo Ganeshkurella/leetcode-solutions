@@ -1,9 +1,9 @@
 {
   "v": 1,
-  "updatedAt": 1791045250022,
+  "updatedAt": 1791045549983,
   "devices": {
     "d43286c8-73e2-4456-b8ee-6984530fd343": {
-      "lastSeen": 1791045249607
+      "lastSeen": 1791045549595
     }
   },
   "problems": {
@@ -24,7 +24,7 @@
         "Hash Table"
       ],
       "title": "Two Sum",
-      "at": 1791045249607
+      "at": 1791045549595
     },
     "2": {
       "attempts": 1,
@@ -44,7 +44,7 @@
         "Recursion"
       ],
       "title": "Add Two Numbers",
-      "at": 1791045249607
+      "at": 1791045549595
     },
     "101": {
       "attempts": 1,
@@ -65,7 +65,7 @@
         "Binary Tree"
       ],
       "title": "Symmetric Tree",
-      "at": 1791045249607
+      "at": 1791045549595
     },
     "102": {
       "attempts": 3,
@@ -85,7 +85,27 @@
         "Binary Tree"
       ],
       "title": "Binary Tree Level Order Traversal",
-      "at": 1791045249607
+      "at": 1791045549595
+    },
+    "103": {
+      "attempts": 1,
+      "bestMemory": "43.9 MB (Beats 25%)",
+      "bestRuntime": "1 ms (Beats 84%)",
+      "date": "2026-10-03",
+      "difficulty": "Medium",
+      "firstSolvedOn": "2026-10-03",
+      "folderName": "0103-Binary-Tree-Zigzag-Level-Order-Traversal",
+      "language": "Java",
+      "number": 103,
+      "slug": "binary-tree-zigzag-level-order-traversal",
+      "solutionCount": 1,
+      "tags": [
+        "Tree",
+        "Breadth-First Search",
+        "Binary Tree"
+      ],
+      "title": "Binary Tree Zigzag Level Order Traversal",
+      "at": 1791045549595
     },
     "226": {
       "attempts": 1,
@@ -106,7 +126,7 @@
         "Binary Tree"
       ],
       "title": "Invert Binary Tree",
-      "at": 1791045249607
+      "at": 1791045549595
     }
   },
   "achievements": {
@@ -118,11 +138,12 @@
   "days": [
     "2026-09-30",
     "2026-10-01",
-    "2026-10-02"
+    "2026-10-02",
+    "2026-10-03"
   ],
   "bests": {
-    "longestStreak": 3,
-    "pushes": 7
+    "longestStreak": 4,
+    "pushes": 8
   },
   "identity": {
     "installId": "d10296c2-0eab-4243-8885-97d0bd970cf3",
