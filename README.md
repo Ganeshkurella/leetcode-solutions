@@ -33,7 +33,7 @@
 | 2 | [Add Two Numbers](problems/0002-Add-Two-Numbers) | 🟧 Medium | `Java` | 2026-09-30 |
 | 101 | [Symmetric Tree](problems/0101-Symmetric-Tree) | 🟩 Easy | `Java` | 2026-09-30 |
 | 102 | [Binary Tree Level Order Traversal](problems/0102-Binary-Tree-Level-Order-Traversal) | 🟧 Medium | `Java` | 2026-10-02 |
-| 103 | [Binary Tree Zigzag Level Order Traversal](problems/0103-Binary-Tree-Zigzag-Level-Order-Traversal) | 🟧 Medium | `Java` | 2026-10-03 |
+| 103 | [Binary Tree Zigzag Level Order Traversal](problems/0103-Binary-Tree-Zigzag-Level-Order-Traversal) | 🟧 Medium | `Java` | 2026-10-05 |
 | 226 | [Invert Binary Tree](problems/0226-Invert-Binary-Tree) | 🟩 Easy | `Java` | 2026-09-30 |
 
 ---
