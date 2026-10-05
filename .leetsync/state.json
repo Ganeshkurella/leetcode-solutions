@@ -1,9 +1,9 @@
 {
   "v": 1,
-  "updatedAt": 1791213077807,
+  "updatedAt": 1791213250036,
   "devices": {
     "d43286c8-73e2-4456-b8ee-6984530fd343": {
-      "lastSeen": 1791213077325
+      "lastSeen": 1791213249557
     }
   },
   "problems": {
@@ -24,7 +24,7 @@
         "Hash Table"
       ],
       "title": "Two Sum",
-      "at": 1791213077325
+      "at": 1791213249557
     },
     "2": {
       "attempts": 1,
@@ -44,7 +44,7 @@
         "Recursion"
       ],
       "title": "Add Two Numbers",
-      "at": 1791213077325
+      "at": 1791213249557
     },
     "101": {
       "attempts": 1,
@@ -65,7 +65,7 @@
         "Binary Tree"
       ],
       "title": "Symmetric Tree",
-      "at": 1791213077325
+      "at": 1791213249557
     },
     "102": {
       "attempts": 3,
@@ -85,27 +85,27 @@
         "Binary Tree"
       ],
       "title": "Binary Tree Level Order Traversal",
-      "at": 1791213077325
+      "at": 1791213249557
     },
     "103": {
-      "attempts": 1,
-      "bestMemory": "43.9 MB (Beats 25%)",
-      "bestRuntime": "1 ms (Beats 84%)",
-      "date": "2026-10-03",
+      "attempts": 2,
+      "bestMemory": "43.6 MB (Beats 79%)",
+      "bestRuntime": "1 ms (Beats 85%)",
+      "date": "2026-10-05",
       "difficulty": "Medium",
-      "firstSolvedOn": "2026-10-03",
+      "firstSolvedOn": "2026-10-05",
       "folderName": "0103-Binary-Tree-Zigzag-Level-Order-Traversal",
       "language": "Java",
       "number": 103,
       "slug": "binary-tree-zigzag-level-order-traversal",
-      "solutionCount": 1,
+      "solutionCount": 2,
       "tags": [
         "Tree",
         "Breadth-First Search",
         "Binary Tree"
       ],
       "title": "Binary Tree Zigzag Level Order Traversal",
-      "at": 1791213077325
+      "at": 1791213249557
     },
     "226": {
       "attempts": 1,
@@ -126,7 +126,7 @@
         "Binary Tree"
       ],
       "title": "Invert Binary Tree",
-      "at": 1791213077325
+      "at": 1791213249557
     }
   },
   "achievements": {
@@ -139,11 +139,12 @@
     "2026-09-30",
     "2026-10-01",
     "2026-10-02",
-    "2026-10-03"
+    "2026-10-03",
+    "2026-10-05"
   ],
   "bests": {
     "longestStreak": 4,
-    "pushes": 8
+    "pushes": 9
   },
   "identity": {
     "installId": "d10296c2-0eab-4243-8885-97d0bd970cf3",
