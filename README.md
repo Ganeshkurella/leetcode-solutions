@@ -37,7 +37,7 @@
 | 110 | [Balanced Binary Tree](problems/0110-Balanced-Binary-Tree) | 🟩 Easy | `Java` | 2026-10-06 |
 | 199 | [Binary Tree Right Side View](problems/0199-Binary-Tree-Right-Side-View) | 🟧 Medium | `Java` | 2026-10-06 |
 | 226 | [Invert Binary Tree](problems/0226-Invert-Binary-Tree) | 🟩 Easy | `Java` | 2026-09-30 |
-| 543 | [Diameter of Binary Tree](problems/0543-Diameter-of-Binary-Tree) | 🟩 Easy | `Java` | 2026-10-07 |
+| 543 | [Diameter of Binary Tree](problems/0543-Diameter-of-Binary-Tree) | 🟩 Easy | `Java` | 2026-10-08 |
 
 ---
 
