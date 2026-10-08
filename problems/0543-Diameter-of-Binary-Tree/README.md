@@ -2,7 +2,7 @@
 
 # 543. Diameter of Binary Tree
 
-![Difficulty](https://img.shields.io/badge/DIFFICULTY-Easy-00b8a3?style=for-the-badge&labelColor=1a1a2e)  ![Language](https://img.shields.io/badge/LANGUAGE-Java-6c5ce7?style=for-the-badge&labelColor=1a1a2e)  ![Solutions](https://img.shields.io/badge/SOLUTIONS-1-6c5ce7?style=for-the-badge&labelColor=1a1a2e)  ![Date](https://img.shields.io/badge/DATE-2026--10--07-605d5d?style=for-the-badge&labelColor=1a1a2e)
+![Difficulty](https://img.shields.io/badge/DIFFICULTY-Easy-00b8a3?style=for-the-badge&labelColor=1a1a2e)  ![Language](https://img.shields.io/badge/LANGUAGE-Java-6c5ce7?style=for-the-badge&labelColor=1a1a2e)  ![Solutions](https://img.shields.io/badge/SOLUTIONS-2-6c5ce7?style=for-the-badge&labelColor=1a1a2e)  ![Date](https://img.shields.io/badge/DATE-2026--10--08-605d5d?style=for-the-badge&labelColor=1a1a2e)
 
 [![View on LeetCode](https://img.shields.io/badge/View%20on-LeetCode-ffa116?style=flat-square&logo=leetcode&logoColor=ffa116)](https://leetcode.com/problems/diameter-of-binary-tree/)
 
@@ -15,7 +15,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="panel-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="panel-light.svg">
-  <img alt="Topics: Tree, Depth-First Search, Binary Tree, DP on Trees — best runtime 0 ms (Beats 100%), best memory 47.1 MB (Beats 28%)" src="panel-dark.svg">
+  <img alt="Topics: Tree, Depth-First Search, Binary Tree, DP on Trees — best runtime 0 ms (Beats 100%), best memory 46.8 MB (Beats 93%)" src="panel-dark.svg">
 </picture>
 
 </div>
@@ -26,9 +26,9 @@
 
 | | |
 |:--|:--|
-| **Attempts** | first try |
-| **Time to solve** | under a minute |
-| **Verdicts** | ✅ Accepted |
+| **Attempts** | 2 before accepted |
+| **Time to solve** | 23 h 38 min |
+| **Verdicts** | ✅ Accepted → ✅ Accepted |
 
 ---
 
@@ -38,11 +38,12 @@ _No notes yet._
 
 ---
 
-### SOLUTIONS (1)
+### SOLUTIONS (2)
 
 | # | File | Language | Date |
 |:-:|------|:--------:|:----:|
-| 1 | [sol1.java](./sol1.java) | `Java` | 2026-10-07 ← **latest** |
+| 1 | [sol1.java](./sol1.java) | `Java` | 2026-10-08 |
+| 2 | [sol2.java](./sol2.java) | `Java` | 2026-10-08 ← **latest** |
 
 ---
 
