@@ -1,9 +1,9 @@
 {
   "v": 1,
-  "updatedAt": 1791418733970,
+  "updatedAt": 1791419054791,
   "devices": {
     "d43286c8-73e2-4456-b8ee-6984530fd343": {
-      "lastSeen": 1791418733095
+      "lastSeen": 1791419053892
     }
   },
   "problems": {
@@ -24,7 +24,7 @@
         "Hash Table"
       ],
       "title": "Two Sum",
-      "at": 1791418733095
+      "at": 1791419053892
     },
     "2": {
       "attempts": 1,
@@ -44,7 +44,7 @@
         "Recursion"
       ],
       "title": "Add Two Numbers",
-      "at": 1791418733095
+      "at": 1791419053892
     },
     "101": {
       "attempts": 1,
@@ -65,7 +65,7 @@
         "Binary Tree"
       ],
       "title": "Symmetric Tree",
-      "at": 1791418733095
+      "at": 1791419053892
     },
     "102": {
       "attempts": 3,
@@ -85,7 +85,7 @@
         "Binary Tree"
       ],
       "title": "Binary Tree Level Order Traversal",
-      "at": 1791418733095
+      "at": 1791419053892
     },
     "103": {
       "attempts": 2,
@@ -105,7 +105,7 @@
         "Binary Tree"
       ],
       "title": "Binary Tree Zigzag Level Order Traversal",
-      "at": 1791418733095
+      "at": 1791419053892
     },
     "110": {
       "attempts": 1,
@@ -125,7 +125,7 @@
         "Binary Tree"
       ],
       "title": "Balanced Binary Tree",
-      "at": 1791418733095
+      "at": 1791419053892
     },
     "199": {
       "attempts": 1,
@@ -146,7 +146,7 @@
         "Binary Tree"
       ],
       "title": "Binary Tree Right Side View",
-      "at": 1791418733095
+      "at": 1791419053892
     },
     "226": {
       "attempts": 1,
@@ -167,16 +167,28 @@
         "Binary Tree"
       ],
       "title": "Invert Binary Tree",
-      "at": 1791418733095
+      "at": 1791419053892
     },
     "543": {
-      "date": "2026-10-07",
+      "attempts": 2,
+      "bestMemory": "46.8 MB (Beats 93%)",
+      "bestRuntime": "0 ms (Beats 100%)",
+      "date": "2026-10-08",
       "difficulty": "Easy",
+      "firstSolvedOn": "2026-10-08",
       "folderName": "0543-Diameter-of-Binary-Tree",
       "language": "Java",
       "number": 543,
+      "slug": "diameter-of-binary-tree",
+      "solutionCount": 2,
+      "tags": [
+        "Tree",
+        "Depth-First Search",
+        "Binary Tree",
+        "DP on Trees"
+      ],
       "title": "Diameter of Binary Tree",
-      "at": 1791418733095
+      "at": 1791419053892
     }
   },
   "achievements": {
@@ -192,11 +204,12 @@
     "2026-10-02",
     "2026-10-03",
     "2026-10-05",
-    "2026-10-06"
+    "2026-10-06",
+    "2026-10-08"
   ],
   "bests": {
     "longestStreak": 4,
-    "pushes": 11
+    "pushes": 12
   },
   "identity": {
     "installId": "d10296c2-0eab-4243-8885-97d0bd970cf3",
