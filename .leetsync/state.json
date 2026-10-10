@@ -1,9 +1,9 @@
 {
   "v": 1,
-  "updatedAt": 1791633854310,
+  "updatedAt": 1791634154292,
   "devices": {
     "d43286c8-73e2-4456-b8ee-6984530fd343": {
-      "lastSeen": 1791633853905
+      "lastSeen": 1791634153887
     }
   },
   "problems": {
@@ -24,7 +24,7 @@
         "Hash Table"
       ],
       "title": "Two Sum",
-      "at": 1791633853905
+      "at": 1791634153887
     },
     "2": {
       "attempts": 1,
@@ -44,7 +44,7 @@
         "Recursion"
       ],
       "title": "Add Two Numbers",
-      "at": 1791633853905
+      "at": 1791634153887
     },
     "101": {
       "attempts": 1,
@@ -65,7 +65,7 @@
         "Binary Tree"
       ],
       "title": "Symmetric Tree",
-      "at": 1791633853905
+      "at": 1791634153887
     },
     "102": {
       "attempts": 3,
@@ -85,7 +85,7 @@
         "Binary Tree"
       ],
       "title": "Binary Tree Level Order Traversal",
-      "at": 1791633853905
+      "at": 1791634153887
     },
     "103": {
       "attempts": 2,
@@ -105,7 +105,7 @@
         "Binary Tree"
       ],
       "title": "Binary Tree Zigzag Level Order Traversal",
-      "at": 1791633853905
+      "at": 1791634153887
     },
     "110": {
       "attempts": 1,
@@ -125,7 +125,7 @@
         "Binary Tree"
       ],
       "title": "Balanced Binary Tree",
-      "at": 1791633853905
+      "at": 1791634153887
     },
     "199": {
       "attempts": 1,
@@ -146,7 +146,7 @@
         "Binary Tree"
       ],
       "title": "Binary Tree Right Side View",
-      "at": 1791633853905
+      "at": 1791634153887
     },
     "226": {
       "attempts": 1,
@@ -167,7 +167,29 @@
         "Binary Tree"
       ],
       "title": "Invert Binary Tree",
-      "at": 1791633853905
+      "at": 1791634153887
+    },
+    "236": {
+      "attempts": 1,
+      "bestMemory": "69.4 MB (Beats 91%)",
+      "bestRuntime": "15 ms (Beats 90%)",
+      "date": "2026-10-10",
+      "difficulty": "Medium",
+      "firstSolvedOn": "2026-10-10",
+      "folderName": "0236-Lowest-Common-Ancestor-of-a-Binary-Tree",
+      "language": "Java",
+      "number": 236,
+      "slug": "lowest-common-ancestor-of-a-binary-tree",
+      "solutionCount": 1,
+      "tags": [
+        "Tree",
+        "Depth-First Search",
+        "Binary Tree",
+        "Binary Lifting",
+        "Lowest Common Ancestor"
+      ],
+      "title": "Lowest Common Ancestor of a Binary Tree",
+      "at": 1791634153887
     },
     "543": {
       "attempts": 3,
@@ -188,10 +210,11 @@
         "DP on Trees"
       ],
       "title": "Diameter of Binary Tree",
-      "at": 1791633853905
+      "at": 1791634153887
     }
   },
   "achievements": {
+    "deca": 1791633872876,
     "early_bird": 1791248051140,
     "first_blood": 1790777917969,
     "night_owl": 1790879412635,
@@ -206,11 +229,12 @@
     "2026-10-05",
     "2026-10-06",
     "2026-10-08",
-    "2026-10-09"
+    "2026-10-09",
+    "2026-10-10"
   ],
   "bests": {
     "longestStreak": 4,
-    "pushes": 13
+    "pushes": 14
   },
   "identity": {
     "installId": "d10296c2-0eab-4243-8885-97d0bd970cf3",
